@@ -11,7 +11,7 @@ $("#nav__toggle").click(function(){
 
   $(this).toggleAria("expanded");
 
-  $(".nav").toggleClass("nav--open");
+  $("#nav").toggleClass("nav--open");
 
 });
 ```
