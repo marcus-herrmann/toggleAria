@@ -4,7 +4,7 @@ Little jQuery-Plugin for toggling [WAI-ARIA states](https://www.w3.org/TR/wai-ar
 
 Imagine it as the counterpart to jQuery's `toggleClass`.
 
-Just pass the state name as a parameter. Usage example for `aria-expanded`:
+Just pass the state name as a parameter. Usage example for `aria-expanded` on a mobile menu trigger (why on the trigger? [See here](http://www.3needs.org/en/testing/code/aria-expanded.html)):
 
 ```
 $("#nav__toggle").click(function(){
