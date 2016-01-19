@@ -1,10 +1,10 @@
 # toggleAria
 
-jQuery-Plugin for toggling [WAI-ARIA states](https://www.w3.org/TR/wai-aria/states_and_properties) like `aria-busy`, `aria-disabled`, `aria-expanded`, and `aria-hidden`.
+Little jQuery-Plugin for toggling [WAI-ARIA states](https://www.w3.org/TR/wai-aria/states_and_properties) like `aria-busy`, `aria-disabled`, `aria-expanded`, and `aria-hidden`.
 
 Imagine it as the counterpart to jQuery's `toggleClass`.
 
-Usage example:
+Just pass the state name as a parameter. Usage example for `aria-expanded`:
 
 ```
 $("#nav__toggle").click(function(){
@@ -15,3 +15,5 @@ $("#nav__toggle").click(function(){
 
 });
 ```
+
+[See demo on CodePen](https://codepen.io/marcus/pen/wMPwba/) (and use your browser's inspector on the button).
