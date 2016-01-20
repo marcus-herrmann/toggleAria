@@ -1,0 +1,22 @@
+{
+  "name": "toggle-aria",
+  "version": "0.1.0",
+  "description": "Small utility plugin for toggling ARIA states",
+  "main": "jquery.toggleAria.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcus-herrmann/toggleAria.git"
+  },
+  "author": "Marcus Herrmann <github@marcus-herrmann.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcus-herrmann/toggleAria/issues"
+  },
+  "homepage": "https://github.com/marcus-herrmann/toggleAria",
+  "keywords": [
+    "wai-aria",
+    "toggle",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ]
+}
